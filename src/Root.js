@@ -10,6 +10,7 @@ const Root = () => {
         <Link to="/kontakt">Kontakt</Link>
       </nav>
       <Outlet />
+      <footer>stopka</footer>
     </div>
   );
 };
